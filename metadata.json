@@ -1,0 +1,6 @@
+{
+  "name": "نظام عروض الأسعار - الفاتورة التقديرية",
+  "description": "قاعدة بيانات متكاملة لإنشاء وتخصيص عروض الأسعار والعمليات الحسابية بدقة مع إمكانية الطباعة وتصدير PDF والرفع والاسترداد والمشاركة عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
